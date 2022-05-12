@@ -5,8 +5,8 @@ Software Developer
 I like coffee, drawing and coding.  
 * 🌍  I'm based in Brasov, Romania 
 * ✉️  You can contact me at [eduardolteanu@gmail.com](mailto:eduardolteanu@gmail.com) 
-*  🧠  I'm learning Unreal engine 5 
-*  * 🤝  I'm open to collaborating on fantasy games
+
+
 
 ### Skills
 
