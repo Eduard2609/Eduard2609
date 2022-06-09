@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi 👋 My name is Eduard Olteanu</div>  
+### <div align="center">👋 My name is Eduard Olteanu</div>  
   
 
 I like coffee, drawing and coding.  
@@ -81,7 +81,9 @@ I like coffee, drawing and coding.
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Eduard2609&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<a href="http://www.github.com/Eduard2609"><img src="https://github-readme-stats.vercel.app/api?username=Eduard2609&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Eduard2609's GitHub stats" /></a>
+
+<a href="https://github.com/Eduard2609" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduard2609&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <br/>  
 
@@ -104,9 +106,3 @@ I like coffee, drawing and coding.
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Eduard2609"><img src="https://github-readme-stats.vercel.app/api?username=Eduard2609&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Eduard2609's GitHub stats" /></a>
-
-<a href="https://github.com/Eduard2609" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduard2609&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
