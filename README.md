@@ -12,7 +12,7 @@ I like coffee, drawing and coding.
 - 🌍  I'm based in Brasov, Romania  
   
 
-- 🌱 I’m currently learning Swift and C#  
+- 🌱 I’m currently working in python
   
 
 - ✉️  You can contact me at eduardolteanu@gmail.com  
