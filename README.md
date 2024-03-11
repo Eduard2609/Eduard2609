@@ -16,7 +16,7 @@ I like coffee, drawing and coding.
 - ✉️  You can contact me at eduardolteanu@gmail.com  
   
 
--   💭 In the future I want to learn React   
+-   💭 I’m currently learning Godot
   
 
 <br/>  
