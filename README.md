@@ -68,21 +68,5 @@ I like coffee, drawing and coding.
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=eduardolteanu&cover_image=true&theme=default&bar_color_cover=true" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
 
 <br />
